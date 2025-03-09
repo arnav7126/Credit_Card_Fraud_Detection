@@ -1,0 +1,14 @@
+# Ignore unnecessary system files
+.DS_Store
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific folders
+ss/
+ipynb/
+credit_card.csv
+error_df.csv
